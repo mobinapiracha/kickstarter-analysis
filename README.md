@@ -19,7 +19,7 @@ Dealing with pivot charts and pivot tables was fairly comfortable but the COUNTI
 
 The following chart is a month by month time series analysis showing theatre outcomes based on a crowdfunding campaign's launch date. As you can see, there is a significant peak in outcomes that are successful in the month of May with more than 100 successful campaigns in the theatre category. Generally, late April to mid July looks like the best time to launch a campaign as the count of successful outcomes is over 80 throughout this period. On the other hand, December has the lowest number of successful crowdfunding campaigns, as the number of successful campaigns is equal to number of failed campaigns, but it does look like in general the overall number of campaigns are lower in December. It looks like that generally the October to December period is the worst time for a crowdfunding campaign. Despite seeing a short spike in October for successful campaigns, there is a much larger spike for failed campaigns, October being the month for the largest number of failed campaigns. Therefore the recommendation would be to have a launch date in early to mid May to give Fever the best chance to meeting its fundraising goals. 
 
-### Outcomes based on Goals?
+### Outcomes based on Goals
 
 <img width="621" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/59693153/103111224-3f477200-4610-11eb-957e-8b2027d3b974.png">
 
